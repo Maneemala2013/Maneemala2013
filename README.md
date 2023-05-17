@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am Maneemala Saeng-ngern, an undergraduate student at the Chinese University of Hong Kong majoring in Computer Science.
 
 <!--
 **Maneemala2013/Maneemala2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
